@@ -22,4 +22,4 @@ Q...
 --------
 
 執行方式：
-dart run solution.dart
+dart run main.dart
